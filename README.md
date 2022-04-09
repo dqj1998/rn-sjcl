@@ -1,4 +1,4 @@
-sjcl
+react-native sjcl
 ====
 
 [![Build Status](https://travis-ci.org/bitwiseshiftleft/sjcl.png)](https://travis-ci.org/bitwiseshiftleft/sjcl)
